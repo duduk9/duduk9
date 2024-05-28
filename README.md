@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there duduk9 👋
 
 <!--
 **duduk9/duduk9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
